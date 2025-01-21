@@ -6,7 +6,7 @@ SaaS Founder & Data Engineer with expertise in Python, SQL, Dagster, Snowflake, 
 ## 🚀 What I'm Up To
 
 - 🤖 Building an AI Branding Tool for MMA athletes. Check out [FighterFame.io](https://fighterfame.io/)
-- 💻 Building Spring Boot applications with PostgreSQL
+- 📸 Growing a MMA community for MMA branding
 
 
 
